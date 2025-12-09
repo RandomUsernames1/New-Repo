@@ -1,0 +1,12 @@
+.hero {
+    height:100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+    padding:0 20px;
+    background: url('assets/images/pic.avif') no-repeat center center;
+    background-size:cover;
+    position:relative;
+}
